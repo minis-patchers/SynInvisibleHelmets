@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynPatcher", "SynInvisibleHelmets\SynPatcher.csproj", "{02A238A5-DF5A-4CA0-AAF6-A8D58FFF9A65}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynInvisibleHelmets", "SynInvisibleHelmets\SynPatcher.csproj", "{02A238A5-DF5A-4CA0-AAF6-A8D58FFF9A65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
